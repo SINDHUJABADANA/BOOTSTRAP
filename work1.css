@@ -1,0 +1,8 @@
+.row{
+	background-color: black;
+}
+#col{
+	background-color: darkgrey;
+	border: 10px solid black;
+	text-align: center;
+}
